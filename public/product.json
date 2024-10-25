@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "image": "https://img.drz.lazcdn.com/g/kf/Sa7c28b83e93a4b89b89144c455f4e9c11.jpg_720x720q80.jpg_.webp",
+        "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+        "price": 49.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Smart LED Light Bulb",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/bf12631ed24ec36396373559a528d5d4.jpg_400x400q75.jpg_.webp",
+        "description": "A smart LED bulb compatible with Alexa and Google Assistant, with customizable colors.",
+        "price": 19.99,
+        "rating": 4.3
+    },
+    {
+        "id": 3,
+        "name": "Stainless Steel Water Bottle",
+        "image": "https://img.drz.lazcdn.com/g/kf/Sca0cd5c248aa4faeba436d7be8481e19c.jpg_400x400q75.jpg_.webp",
+        "description": "Eco-friendly, BPA-free stainless steel bottle that keeps drinks cold for 24 hours.",
+        "price": 15.99,
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "name": "Portable Charger 10000mAh",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/a9f42f2427eecd6183994734ba589d2e.jpg_400x400q75.jpg_.webp",
+        "description": "Compact and lightweight portable charger with 10000mAh capacity and dual USB ports.",
+        "price": 29.99,
+        "rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "Bluetooth Speaker",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/cff087fc935d3372266b7c6a2b42ddf6.jpg_400x400q75.jpg_.webp",
+        "description": "Portable Bluetooth speaker with excellent bass and waterproof design, perfect for outdoor use.",
+        "price": 39.99,
+        "rating": 4.2
+    }
+]
